@@ -16,7 +16,7 @@ app.set("trust proxy", true);
 app.use(express.json());
 
 // CORS Configuration
-const allowedOrigins = ["http://localhost:5174"];
+const allowedOrigins = ["https://aswinraj-portfolio.vercel.app"];
 
 const corsOptions = {
   origin: function (origin, callback) {

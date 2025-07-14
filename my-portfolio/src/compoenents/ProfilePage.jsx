@@ -275,7 +275,7 @@ const ProfilePage = () => {
       title: "E-Commerce Platform",
       description:
         "Full-stack e-commerce solution with React, Node.js, and MongoDB",
-      tech: ["ejs", "Node.js", "MongoDB", "Stripe"],
+      tech: ["ejs", "Node.js", "MongoDB", "Razorpay"],
       images: [stepifyImg], // Add more images if you have them
       github: "https://github.com/Aswinrajr/mini-project-stepify.git",
       live: "https://mini-project-stepify.onrender.com",
